@@ -28,9 +28,7 @@ I'm a bachelor's degree student at The Czech Technical University  🏛 in Pragu
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+
 ### Projects and Dev Stuffs:
 <details>
   <summary><b>⚡ Github Stats</b></summary>
@@ -40,7 +38,6 @@ I'm a bachelor's degree student at The Czech Technical University  🏛 in Pragu
 </details>
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=knedl1k&hide_border=true" />
 </details>
@@ -50,14 +47,14 @@ I'm a bachelor's degree student at The Czech Technical University  🏛 in Pragu
   	<ul>
   	    <li><b>OS:</b> Arch Linux and Kubuntu </li>
   	    <li><b>Browser: </b> LibreWolf and Tor </li>
-	      <li><b>Terminal: </b> ZSH </li>
-	      <li><b>Code Editor:</b> SublimeText, VSCode, nano & JetBrains IDEs </li>
-	    <br />
+	    <li><b>Terminal: </b> ZSH </li>
+	    <li><b>Code Editor:</b> SublimeText, VSCode, nano & JetBrains IDEs </li>
+<br />
 </details>
 
 #
 
 <div align="center">
 
-### Privacy is a human right
+### Privacy is a human right.
 </div>
