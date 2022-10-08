@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a bachelor's degree student at The Czech Technical University  🏛 in Prague in Cybernetics and Robotics 🎓 . I'm always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Python Dev and working on Algorithms. I also support FOSS devs and projects same as the privacy oriented projects.
+I'm a bachelor's degree student at The Czech Technical University in Prague, Faculty of Electrical Engineering, Cybernetics and Robotics 🎓. I'm always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Python Dev and working on Algorithms. I also support FOSS devs and projects same as the privacy oriented projects.
 
 <img align="right" height="280" width="450" alt="" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Techy/unecessary-automation.gif" />
 
@@ -45,7 +45,7 @@ I'm a bachelor's degree student at The Czech Technical University  🏛 in Pragu
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Arch Linux and Kubuntu </li>
+  	    <li><b>OS:</b> Arch Linux and Linux Mint </li>
   	    <li><b>Browser: </b> LibreWolf and Tor </li>
 	    <li><b>Terminal: </b> ZSH </li>
 	    <li><b>Code Editor:</b> SublimeText, VSCode, nano & JetBrains IDEs </li>
