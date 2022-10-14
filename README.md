@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a bachelor's degree student at The Czech Technical University in Prague, Faculty of Electrical Engineering, Cybernetics and Robotics 🎓. I'm always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Python Dev and working on Algorithms. I also support FOSS devs and projects same as the privacy oriented projects.
+I am a student of the bachelor's program in cybernetics and robotics at the Czech Technical University in Prague, Faculty of Electrical Engineering 🎓. I love to explore new technologies and leverage them to solve real-life problems 💡. I'm currently into Python Dev and working on Algorithms. I also support FOSS devs and projects same as the privacy oriented projects.
 
 <img align="right" height="280" width="450" alt="" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Techy/unecessary-automation.gif" />
 
