@@ -10,7 +10,6 @@ I am a student of the bachelor's program in cybernetics and robotics at the Czec
 
 - 🚀 &nbsp; I'm currently learning new algorithms in Python
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/knedl1k) in ENG.
-- 👾 &nbsp; Fun fact: Rust is new C.
 
 ### My Absolute Favorites:
 
@@ -30,10 +29,11 @@ I am a student of the bachelor's program in cybernetics and robotics at the Czec
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### ⚙️ Things I use to get stuff done
-- <b>OS:</b> Arch Linux and Linux Mint 
-- <b>Browser: </b> LibreWolf and Tor
-- <b>Terminal: </b> ZSH 
-- <b>Code Editor:</b> SublimeText, VSCode, nano & JetBrains IDEs 
+
+- <b>OS:</b> &nbsp; Arch Linux and Linux Mint 
+- <b>Browser: </b> &nbsp; LibreWolf and Tor
+- <b>Terminal: </b> &nbsp; ZSH 
+- <b>Code Editor:</b> &nbsp; SublimeText, VSCode, nano & JetBrains IDEs 
 
 </details>
 
