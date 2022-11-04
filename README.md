@@ -8,7 +8,7 @@ I am a student of the bachelor's program in cybernetics and robotics at the Czec
 
 ### Personal Stuffs:
 
-- 🚀 &nbsp; I'm currently learning new algorithms in Python
+- 🚀 &nbsp; I'm currently into Python projects
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/knedl1k) in ENG.
 
 ### My Absolute Favorites:
