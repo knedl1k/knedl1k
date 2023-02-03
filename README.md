@@ -7,7 +7,7 @@
 - <b>OS:</b> &nbsp;Arch Linux
 - <b>Browser: </b> &nbsp; LibreWolf and Tor
 - <b>Terminal: </b> &nbsp;ZSH 
-- <b>Code Editor:</b> &nbsp;gedit, nano & JetBrains IDEs
+- <b>Code Editor:</b> &nbsp;gedit, nano, subl
 
 </details>
 
@@ -15,8 +15,6 @@
 
 <div align="center">
 
-### Privacy is a human right.
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
-</div>
+  ### Privacy is a human right.
+
 </div>
