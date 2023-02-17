@@ -5,7 +5,7 @@
 ### ⚙️ Things I use to get stuff done
 
 - <b>OS:</b> &nbsp;Arch Linux
-- <b>Browser: </b> &nbsp; LibreWolf and Tor
+- <b>Browser: </b> &nbsp; LibreWolf and ungoogled-chromium
 - <b>Terminal: </b> &nbsp;ZSH 
 - <b>Code Editor:</b> &nbsp;gedit, nano, subl
 
