@@ -7,7 +7,7 @@
 - <b>OS:</b> &nbsp;Arch Linux
 - <b>Browser: </b> &nbsp; LibreWolf and ungoogled-chromium
 - <b>Terminal: </b> &nbsp;ZSH 
-- <b>Code Editor:</b> &nbsp;neovim, nano, subl
+- <b>Code Editor:</b> &nbsp;neovim, lite-xl, subl
 
 </details>
 
