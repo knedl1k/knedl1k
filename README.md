@@ -7,7 +7,7 @@
 - <b>OS:</b> &nbsp;Arch Linux
 - <b>Browser: </b> &nbsp; LibreWolf and ungoogled-chromium
 - <b>Terminal: </b> &nbsp;ZSH 
-- <b>Code Editor:</b> &nbsp;neovim, lite-xl, subl
+- <b>Code Editor:</b> &nbsp;[neovim](https://neovim.io/), [Lite-XL](https://lite-xl.com/), [VSCodium](https://vscodium.com/)
 
 </details>
 
