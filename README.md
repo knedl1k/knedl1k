@@ -1,11 +1,11 @@
-<img align="right" height="280" width="450" alt="" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Techy/unecessary-automation.gif" />
-
 ### ⚙️ Things I use to get stuff done
 
-- <b>OS:</b> &nbsp;Arch Linux, kernel compiled with x86-64-v4 instructions
-- <b>Browser: </b> &nbsp; LibreWolf and ungoogled-chromium
-- <b>Terminal: </b> &nbsp;ZSH 
-- <b>Code Editor:</b> &nbsp;[neovim](https://neovim.io/), [Lite-XL](https://lite-xl.com/), [VSCodium](https://vscodium.com/)
+- <b>OS:</b> &nbsp;[Arch Linux](https://archlinux.org/), kernel compiled with x86-64-v4 instructions
+- <b>Browser:</b> &nbsp;[LibreWolf](https://librewolf.net/)
+- <b>Terminal Emulator:<\b> &nbsp;[Terminator](https://gnome-terminator.org/)
+- <b>Code Editor:</b> &nbsp;[neovim](https://neovim.io/), [VSCodium](https://vscodium.com/)
+
+<b>AUR packages I maintain:</b> &nbsp;<a href="https://aur.archlinux.org/packages?SeB=m&K=knedl1k"><img src="https://aur.archlinux.org/static/css/archnavbar/aurlogo.png" width="150"></a>
 
 </details>
 
