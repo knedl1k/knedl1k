@@ -1,9 +1,10 @@
-### ⚙️ Things I use to get stuff done
+### software I use
 
 - <b>OS:</b> &nbsp;[Arch Linux](https://archlinux.org/), kernel compiled with x86-64-v4 instructions
 - <b>Browser:</b> &nbsp;[LibreWolf](https://librewolf.net/)
 - <b>Terminal Emulator:</b> &nbsp;[Terminator](https://gnome-terminator.org/)
 - <b>Code Editor:</b> &nbsp;[neovim](https://neovim.io/), [VSCodium](https://vscodium.com/)
+- <b>VPN provider:</b> &nbsp;[Mullvad](https://mullvad.net)
 
 <b>AUR packages I maintain:</b>
 
